@@ -1,3 +1,5 @@
-# README DOCUMENT
+# Welcome to to Example.com
 
-Just playing around
+We hope you love this tiny tiny site.
+
+Need to [contact someone](/least-github-pages/contact.html) on the team?
